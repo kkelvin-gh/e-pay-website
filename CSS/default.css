@@ -1,0 +1,57 @@
+body{
+    height: 100vh;
+    background-image: url("../Images/mainbg.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+
+/* <!-- Card(Sample Text) --> */
+#Sample-text-margin{
+    margin: 0px 150px;
+    font-family: comfortaa;
+    background: none;
+    border: none;
+}
+
+#Sample-text-margin h1{
+    font-size: 50px;
+}
+
+#Sample-text-margin p{
+    font-size: 18px;
+}
+
+.button-wrapper a{
+    padding: 15px;
+    width: 200px;
+    color: white;
+    box-shadow: 0px 3px 6px blue;
+}
+
+.register{
+    margin-right: 20px;
+    background-color: #d54040;
+    border: 1px solid black;
+}
+
+.login{
+    background-color: #3bb1d4;
+    border: 1px solid black;
+}
+
+/* Card Registration Form */
+.card .form-control{
+    margin: 10px 0px 0px;
+    box-shadow: 0px 3px 6px blue;
+}
+
+.card button{
+    background-color: #d54040;
+    border: 1px solid black;
+    color: white;
+    margin-top: 3%;
+    box-shadow: 0px 3px 6px red;
+}
+
